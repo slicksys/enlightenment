@@ -14,11 +14,10 @@ Building on the philosophy of enlightened software development, where understand
 - Devops
 - C# Frameworks
 - Other stuff here...
-
 - 
 
-For more details visit [Slicksys Development](https://slicksys.net).
+For more details visit [Slicksys Development](https://slicksys.net)
 
 
 ### Support or Contact
-[Christopher Lane](https://christopherlane.net).
+[Christopher Lane](https://christopherlane.net)
