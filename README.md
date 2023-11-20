@@ -1,4 +1,3 @@
-## Welcome Slicksys Development Enlightenment
 
 ### Definiation: 
 European intellectual movement of the late 17th and 18th centuries emphasizing reason and individualism rather than tradition. 
