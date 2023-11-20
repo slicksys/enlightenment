@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome Slicksys Development Enlightenment
 
-You can use the [editor on GitHub](https://github.com/slicksys/enlightenment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Enlightenment:  European intellectual movement of the late 17th and 18th centuries emphasizing reason and individualism rather than tradition. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the world of software development and design, enlightenment can be viewed as a heightened state of understanding and insight, reaching a deep, intuitive understanding of the complexities and nuances of technology. For a developer, this means transcending beyond the basic functionality of code to appreciate and harness its potential to solve real-world problems creatively and efficiently. It's about seeing beyond the immediate task to the broader impact of one's work, understanding user needs and experiences at a fundamental level, and integrating this insight into the design process. In this way, enlightenment in software development becomes synonymous with innovation, precision, and user-centric thinking, leading to solutions that are not only technically robust but also elegantly tailored to meet and exceed the expectations and needs of the end user. This enlightened approach is crucial in a rapidly evolving tech landscape, enabling developers to stay ahead of the curve and deliver exceptional, impactful software products.
 
-### Markdown
+
+
+### Purpose
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
